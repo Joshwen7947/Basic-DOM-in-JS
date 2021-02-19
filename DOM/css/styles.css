@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  padding-top: 10%;
+  background-color: aquamarine;
+}
+
+body h1 {
+  font-size: 5rem;
+  padding-bottom: 25px;
+}
+
+body hr {
+  background-color: burlywood;
+  height: 3px;
+  margin-top: 10px;
+}
+
+body div h1 {
+  font-size: 2.5rem;
+  padding: 25px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+body div p {
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+body div .redtext {
+  color: red;
+  font-weight: bolder;
+}
+
+body div .bluetext {
+  color: royalblue;
+  font-weight: bolder;
+}
+
+body div .greentext {
+  color: seagreen;
+  font-weight: bolder;
+}
+/*# sourceMappingURL=styles.css.map */

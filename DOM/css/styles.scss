@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  padding-top: 10%;
+  background-color: aquamarine;
+
+  h1 {
+    font-size: 5rem;
+    padding-bottom: 25px;
+  }
+  hr {
+    background-color: burlywood;
+    height: 3px;
+    margin-top: 10px;
+  }
+  div {
+    h1 {
+      font-size: 2.5rem;
+      padding: 25px;
+      text-transform: uppercase;
+      text-decoration: underline;
+    }
+    p {
+      font-size: 1.5rem;
+      padding: 10px;
+    }
+    .redtext {
+      color: red;
+      font-weight: bolder;
+    }
+    .bluetext {
+      color: royalblue;
+      font-weight: bolder;
+    }
+    .greentext {
+      color: seagreen;
+      font-weight: bolder;
+    }
+  }
+}
